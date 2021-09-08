@@ -1,0 +1,2 @@
+Com esse teste lembrei que o arquivo é criado pelo comando cat, logo "git add" tem outra função
+Percebi que o arq é salvo automaticamente
