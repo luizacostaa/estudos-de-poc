@@ -1,4 +1,6 @@
 Com esse teste lembrei que o arquivo é criado pelo comando cat, logo "git add" tem outra função
 Percebi que o arq é salvo automaticamente
-Depois alterei o texto no próprio github, tive que mesclar
-Agora alterei o texto no github de novo...
+Depois alterei o texto no próprio github, tive que mesclar. Tive que usar:
+git fetch origin
+git reset --hard origin/staging
+Agora alterei o texto no github de novo e vou tentar fazer um git pull
